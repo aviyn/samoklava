@@ -192,7 +192,7 @@ outlines:
       bottom_left:
         type: circle
         anchor:
-          - ref: matrix_pinky_far_bottom
+          - ref: matrix_pinky_bottom
             shift: [0.5 kx, 0]
         radius: 1.05
       top_right:
