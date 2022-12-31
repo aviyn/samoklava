@@ -3,6 +3,6 @@
         "gen": "ergogen samoklava.yaml"
     },
     "dependencies": {
-        "ergogen": "github:aviyn/ergogen
+        "ergogen": "github:soundmonster/ergogen#samoklava"
     }
 }
